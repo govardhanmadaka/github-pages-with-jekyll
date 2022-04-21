@@ -1,4 +1,7 @@
-theme: minima
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---theme: minima
 title: Your awesome title
 author: govardhan
 email: your-email@domain.com
